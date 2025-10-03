@@ -33,3 +33,9 @@ The system allows users to:
    cd hit137-gui
    git clone <your-github-repo-url>
    cd hit137-gui
+
+## Screenshots of output
+
+<img width="1199" height="946" alt="pictureoutput" src="https://github.com/user-attachments/assets/0fb0cc89-5bd6-4e34-8782-081ed5883580" />
+
+<img width="1193" height="942" alt="textoutput" src="https://github.com/user-attachments/assets/499becd9-d33f-447d-acee-c880c225905c" />
