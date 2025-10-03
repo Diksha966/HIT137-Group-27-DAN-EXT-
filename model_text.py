@@ -1,5 +1,5 @@
 # model_text.py
-from transformers import pipeline
+from transformers import pipeline 
 from model_base import ModelHandler
 from decorators import simple_timer, Logger
 
@@ -29,3 +29,4 @@ class TextModelHandler(Logger, ModelHandler):
             self.load()
         output = self.model(text)  # returns [{'label': 'POSITIVE', 'score': 0.99}]
         return output
+
